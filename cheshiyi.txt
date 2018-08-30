@@ -1,8 +1,5 @@
 zhi shi jian dan de che shi wen jian bu yao zai yi ni dong de 
 xin jia yi hang ????
 yan shen yao
-<<<<<<< HEAD
 xian shu sen da sha zi !!!
-=======
 No.4:  D:/Deve_soft/Git-2.18.0-64-bit/ErBuLianXiYi/.git/
->>>>>>> 8cfd6b0089c50346b527bb8b8a3fb0731113a07f
